@@ -1,0 +1,21 @@
+/* styles.css file content */
+
+/* This style targets all elements with the class 'external-section' */
+.external-section {
+    background-color: #fce4ec; /* Light pink background */
+    padding: 15px;
+    border: 1px dashed #ad1457; /* Pink dashed border */
+    font-family: Arial, sans-serif;
+}
+
+/* This style targets the body tag */
+body {
+    margin: 30px;
+    background-color: #fafafa; /* Very light gray background for the whole page */
+}
+
+/* This style targets the element with the class 'special-text' */
+.special-text {
+    font-weight: bold;
+    color: #4a148c; /* Dark purple text */
+}
